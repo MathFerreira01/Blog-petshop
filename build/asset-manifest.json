@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Blog-petshop/static/css/main.f19e25e2.chunk.css",
+    "main.js": "/Blog-petshop/static/js/main.a1112fee.chunk.js",
+    "main.js.map": "/Blog-petshop/static/js/main.a1112fee.chunk.js.map",
+    "runtime-main.js": "/Blog-petshop/static/js/runtime-main.406b5ab8.js",
+    "runtime-main.js.map": "/Blog-petshop/static/js/runtime-main.406b5ab8.js.map",
+    "static/js/2.c84d2c3d.chunk.js": "/Blog-petshop/static/js/2.c84d2c3d.chunk.js",
+    "static/js/2.c84d2c3d.chunk.js.map": "/Blog-petshop/static/js/2.c84d2c3d.chunk.js.map",
+    "static/js/3.d7f2bf85.chunk.js": "/Blog-petshop/static/js/3.d7f2bf85.chunk.js",
+    "static/js/3.d7f2bf85.chunk.js.map": "/Blog-petshop/static/js/3.d7f2bf85.chunk.js.map",
+    "index.html": "/Blog-petshop/index.html",
+    "static/css/main.f19e25e2.chunk.css.map": "/Blog-petshop/static/css/main.f19e25e2.chunk.css.map",
+    "static/js/2.c84d2c3d.chunk.js.LICENSE.txt": "/Blog-petshop/static/js/2.c84d2c3d.chunk.js.LICENSE.txt",
+    "static/media/doguito.3541f9d8.svg": "/Blog-petshop/static/media/doguito.3541f9d8.svg",
+    "static/media/doguito404.1a2ea648.svg": "/Blog-petshop/static/media/doguito404.1a2ea648.svg",
+    "static/media/cabecalho.css": "/Blog-petshop/static/media/menu.bcbef95e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.406b5ab8.js",
+    "static/js/2.c84d2c3d.chunk.js",
+    "static/css/main.f19e25e2.chunk.css",
+    "static/js/main.a1112fee.chunk.js"
+  ]
+}
